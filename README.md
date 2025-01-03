@@ -20,10 +20,10 @@ Pico
 −
 M
 ı
-ˊ
+
 nimo
 )
 Objetivo=Precio de entrada+(Pico−M 
 ı
-ˊ
+
  nimo)
