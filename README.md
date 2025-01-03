@@ -11,19 +11,5 @@ Deja un margen adicional para evitar activaciones prematuras debido a la volatil
 3. Objetivo de Ganancias:
 Calcula el rango entre el mínimo del patrón y el pico intermedio.
 Proyecta ese rango desde el nivel de entrada hacia arriba para determinar tu objetivo. Por ejemplo:
-Objetivo
-=
-Precio de entrada
-+
-(
-Pico
-−
-M
-ı
+Objetivo = Precio de entrada + (Pico − Mınimo)
 
-nimo
-)
-Objetivo=Precio de entrada+(Pico−M 
-ı
-
- nimo)
