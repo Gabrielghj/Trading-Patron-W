@@ -13,3 +13,22 @@ Calcula el rango entre el mínimo del patrón y el pico intermedio.
 Proyecta ese rango desde el nivel de entrada hacia arriba para determinar tu objetivo. Por ejemplo:
 Objetivo = Precio de entrada + (Pico − Mınimo)
 
+# Graficos
+### 1. Representación Gráfica del Patrón "W"
+Crearé un gráfico usando Python y la librería matplotlib para mostrar cómo se ve el patrón "W" con las líneas de entrada, stop loss y objetivo.
+
+### 2. Código para Detectar el Patrón Automáticamente
+El código utilizará:
+
+Pandas: para manejar los datos históricos.
+NumPy: para identificar máximos y mínimos.
+Matplotlib: para graficar los patrones identificados.
+
+# Código Python
+Primero, definimos un script que:
+
+Carga datos históricos de precios.
+Detecta mínimos y máximos relativos.
+Busca patrones que cumplan las condiciones de un patrón "W".
+Grafica los resultados.
+
