@@ -1,4 +1,4 @@
-# Trading-Patron-W
+## Trading-Patron-W
 El patrón "W" en trading es un patrón de inversión que indica una posible reversión al alza después de una tendencia bajista. Se forma con dos mínimos consecutivos separados por un pico intermedio, y el segundo mínimo está generalmente en el mismo nivel o ligeramente más alto que el primero.
 
 Para usar este patrón al colocar el stop loss, la entrada, y el objetivo, sigue estos pasos:
